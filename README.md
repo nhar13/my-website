@@ -1,9 +1,3 @@
-# بوابة الخدمات الذاتية
+# nahar93.sa
 
-النطاق: https://nahar93.sa
-
-الصفحات:
-- index.html
-- sick-leave-declaration.html
-- overtime-calculator.html
-- excellence-allowance.html
+بوابة الخدمات الذاتية.

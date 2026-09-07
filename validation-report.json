@@ -1,30 +1,26 @@
 {
   "excellence-allowance.html": {
     "title": "نموذج بدل التميز",
-    "canonical": "https://nahar93.sa/excellence-allowance.html",
-    "home_links": 1,
-    "insecure_links": [],
-    "size": 1735361
+    "home_top_right": true,
+    "preview_buttons": 0,
+    "http_links": []
   },
   "index.html": {
     "title": "بوابة الخدمات الذاتية",
-    "canonical": "https://nahar93.sa/",
-    "home_links": 2,
-    "insecure_links": [],
-    "size": 26263
+    "home_top_right": true,
+    "preview_buttons": 3,
+    "http_links": []
   },
   "overtime-calculator.html": {
     "title": "نموذج احتساب العمل الإضافي",
-    "canonical": "https://nahar93.sa/overtime-calculator.html",
-    "home_links": 1,
-    "insecure_links": [],
-    "size": 243745
+    "home_top_right": true,
+    "preview_buttons": 0,
+    "http_links": []
   },
   "sick-leave-declaration.html": {
     "title": "نموذج تعبئة إقرار الإجازة المرضية",
-    "canonical": "https://nahar93.sa/sick-leave-declaration.html",
-    "home_links": 1,
-    "insecure_links": [],
-    "size": 251665
+    "home_top_right": true,
+    "preview_buttons": 0,
+    "http_links": []
   }
 }
